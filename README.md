@@ -1,2 +1,13 @@
 # ProjectSE
 A Collaboration App based on Electron
+-----------------------------------------------------------
+                          BASIC QUICKSTART
+Electron Program Examples : https://www.electronjs.org/blog/simple-samples
+
+Electron Quickstart : https://github.com/electron/electron-quick-start
+
+Electron How-to : https://www.electronjs.org/docs/tutorial
+
+------------------------------------------------------------
+                          API DEMOS
+API Test : https://github.com/electron/electron-api-demos
