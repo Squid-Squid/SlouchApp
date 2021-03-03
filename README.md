@@ -2,6 +2,8 @@
 A Collaboration App based on Electron
 -----------------------------------------------------------
                           BASIC QUICKSTART
+JAVASCRIPT BASICS (PENTING) : https://www.youtube.com/watch?v=hdI2bqOjy3c
+                    
 Electron Program Examples : https://www.electronjs.org/blog/simple-samples
 
 Electron Quickstart : https://github.com/electron/electron-quick-start
