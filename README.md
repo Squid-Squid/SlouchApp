@@ -1,4 +1,4 @@
-# ProjectSE
+# SlouchApp
 A Collaboration App based on Electron
 -----------------------------------------------------------
                           BASIC QUICKSTART
