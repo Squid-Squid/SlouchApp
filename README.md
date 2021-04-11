@@ -15,3 +15,8 @@ Electron app in 1 hour (lumayan nih buat familiarize pake npm + git) : https://w
 ------------------------------------------------------------
                               API DEMOS
 API Test : https://github.com/electron/electron-api-demos
+
+------------------------------------------------------------
+                              REFERENSI KEREN
+https://anonystick.com/labs/singin-singup (ini demonya)
+https://anonystick.com/blog-developer/css-for-double-slider-sign-in-and-sign-up-form-73wSgRFj.jsx (ini source code dan documentation, tapi bahasa vietnam T_T)
