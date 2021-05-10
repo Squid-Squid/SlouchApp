@@ -1,5 +1,12 @@
 # SlouchApp
 A Collaboration App based on Electron
+
+FEATURES
+- LOGIN PAGE (DONE)
+- KANBAN BOARD (ON PROGRESS)
+- CHAT FEATURES (ON RESEARCH)
+- VOICE AND VIDEO (ON RESEARCH)
+
 -----------------------------------------------------------
                           BASIC QUICKSTART
 JAVASCRIPT BASICS (PENTING) : https://www.youtube.com/watch?v=hdI2bqOjy3c
