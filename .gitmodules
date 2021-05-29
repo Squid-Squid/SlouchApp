@@ -1,0 +1,4 @@
+
+[submodule "kanban_board_squiddy"]
+	path = kanban_board_squiddy
+	url = https://github.com/Squid-Squid/nullboard.git
