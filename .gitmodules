@@ -1,3 +1,4 @@
-[submodule "kanban_board"]
-	path = kanban_board
-	url = https://github.com/apankrat/nullboard.git
+
+[submodule "kanban_board_squiddy"]
+	path = kanban_board_squiddy
+	url = https://github.com/Squid-Squid/nullboard.git
